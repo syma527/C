@@ -3,6 +3,7 @@
 int main()
 {
     printf("Hello World");
+    int i;
     scanf("%d",&i);
     printf("%d",i);
     return 0;
